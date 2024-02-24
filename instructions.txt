@@ -1,8 +1,2 @@
 Intructions for deploying this site to the server
 -----------------------------------
-
-
-Installation on IIS
------------------------------------
-
-Content goes here
