@@ -1,6 +1,3 @@
 Intructions for deploying this site to the server
 -----------------------------------
 
-
-Troubleshooting
------------------------------------
